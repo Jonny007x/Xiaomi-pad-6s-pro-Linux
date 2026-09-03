@@ -26,6 +26,7 @@ export OBJCOPY="llvm-objcopy"
 export OBJDUMP="llvm-objdump"
 export READELF="llvm-readelf"
 export STRIP="llvm-strip"
+export ARCH=arm64
 
 # --- Kernel repo ---
 KERNEL_REPO="ianchb/sm8550-mainline"
